@@ -1,0 +1,7 @@
+Task 1.1: Requirements Discovery
+Here are the functional requirements for the system based on the given problem statement:
+1. User should be able to add a new contact with first name, last name, company, job title, phone numbers, and email addresses.
+2. User should be able to update existing contact details including first name, last name, company, job title, phone numbers, and email addresses.
+3. User should be able to delete contacts.
+4. User should be able to search for contacts based on first name, last name, company, job title, phone numbers, or email addresses.
+5. User should be able to merge duplicate contacts, combining their information while retaining unique data.
